@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Nishith Sahu
 
-<!--
-**nishithsahu/nishithsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Full Stack Engineer | Backend & Cloud Enthusiast  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **scalable full-stack applications and microservices**
+- 🌱 I’m currently learning **System Design, LLMs (GenAI, LangChain), and Cloud Architectures**
+- 👯 I’m looking to collaborate on **high-impact open-source or backend-heavy projects**
+- 🤔 I’m interested in **designing systems for scale and performance**
+- 💬 Ask me about **Java, Node.js, System Design, Microservices, AWS, Databases**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/) | Email: your-email@example.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I enjoy breaking complex systems into simple, scalable designs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** Java, Spring Boot, Node.js, Express  
+- **Frontend:** React.js  
+- **Databases:** MySQL, MongoDB, Redis  
+- **Cloud & DevOps:** AWS, Docker, CI/CD  
+- **Other:** Git, REST APIs, Microservices, System Design
+
+⭐️ *Always learning. Always building.*
