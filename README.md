@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **high-impact open-source or backend-heavy projects**
 - 🤔 I’m interested in **designing systems for scale and performance**
 - 💬 Ask me about **Java, Node.js, System Design, Microservices, AWS, Databases**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/) | Email: your-email@example.com**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/nishithsahu) | Email: nishith.sahu1118@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I enjoy breaking complex systems into simple, scalable designs
 
